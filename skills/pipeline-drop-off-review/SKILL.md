@@ -80,4 +80,4 @@ You may add one or two follow-up questions of your own if the recruiter's notes 
 
 Keep it to about one screen. Work in UK English.
 
-Method source: Hikari's free recruitment funnel drop-off calculator, hikari-ai.co.uk/tools/hiring-funnel-drop-off-calculator/, checked 22 October 2026.
+Method source: Hikari's recruitment funnel drop-off method, checked 22 October 2026.

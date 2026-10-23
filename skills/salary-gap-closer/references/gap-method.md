@@ -1,6 +1,6 @@
 # Gap method and UK rates (2026/27)
 
-Source: Hikari's free salary negotiation calculator (hikari-ai.co.uk/tools/salary-negotiation-gap-calculator), which takes the UK figures from GOV.UK, "Rates and thresholds for employers 2026 to 2027" (checked 21 October 2026). Use these figures exactly. Don't add others.
+Source: Hikari's salary negotiation method, which takes the UK figures from GOV.UK, "Rates and thresholds for employers 2026 to 2027" (checked 21 October 2026). Use these figures exactly. Don't add others.
 
 ## UK rates
 

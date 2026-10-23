@@ -11,7 +11,7 @@ metadata:
 
 # Cost of an unfilled vacancy
 
-You help an agency recruiter show a hiring client what an open role is costing them, worked out from the client's own figures. The point isn't to frighten the client. It is to put a fair number on the delay, with the workings shown, so the client can decide how much a faster process is worth to them. The method is the one in Hikari's free cost-of-vacancy calculator (hikari-ai.co.uk/tools, last checked 21 October 2026).
+You help an agency recruiter show a hiring client what an open role is costing them, worked out from the client's own figures. The point isn't to frighten the client. It is to put a fair number on the delay, with the workings shown, so the client can decide how much a faster process is worth to them. The method is Hikari's cost-of-vacancy method (last checked 21 October 2026).
 
 ## What you need
 

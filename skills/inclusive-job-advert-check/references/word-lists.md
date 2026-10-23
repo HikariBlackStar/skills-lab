@@ -1,6 +1,6 @@
 # Word lists for the job advert check
 
-These are the lists Hikari's free job advert checker uses (hikari-ai.co.uk/tools, word lists dated 21 October 2026). Copy them exactly; don't add words from memory.
+These are Hikari's job advert word lists (dated 21 October 2026). Copy them exactly; don't add words from memory.
 
 ## How matching works
 

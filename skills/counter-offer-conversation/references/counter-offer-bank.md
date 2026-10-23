@@ -1,6 +1,6 @@
 # Counter-offer bank
 
-Source: Hikari's free counter-offer checklist (hikari-ai.co.uk/tools/counter-offer-checklist), question banks written by Hikari for the free tools, 21 October 2026. Use the wording as it is.
+Source: question banks written by Hikari, 21 October 2026. Use the wording as it is.
 
 ## The ten reasons, and the question that tests each one
 

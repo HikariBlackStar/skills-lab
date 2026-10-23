@@ -1,6 +1,6 @@
 # Offer method and UK rates (2026/27)
 
-Source: Hikari's free offer comparison calculator (hikari-ai.co.uk/tools/offer-comparison-calculator), which takes its figures from GOV.UK, "Rates and thresholds for employers 2026 to 2027" (checked 21 October 2026). Use these figures exactly. Don't add others.
+Source: Hikari's offer comparison method, which takes its figures from GOV.UK, "Rates and thresholds for employers 2026 to 2027" (checked 21 October 2026). Use these figures exactly. Don't add others.
 
 ## UK rates
 
