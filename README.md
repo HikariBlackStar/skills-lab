@@ -34,6 +34,7 @@ npx skills add HikariBlackStar/skills-lab --skill <name>
 | [Call notes to submission](skills/call-notes-to-submission/SKILL.md) | Shortlisting |  |
 | [Shortlist write-up](skills/shortlist-write-up/SKILL.md) | Shortlisting |  |
 | [Candidate outreach message](skills/candidate-outreach-message/SKILL.md) | Sourcing |  |
+| [Competitor Battlecards](skills/competitor-battlecards/SKILL.md) | Sourcing |  |
 | [Database rediscovery](skills/database-rediscovery/SKILL.md) | Sourcing |  |
 | [Market intelligence](skills/market-intelligence/SKILL.md) | Sourcing |  |
 | [Sourcing strategy](skills/sourcing-strategy/SKILL.md) | Sourcing |  |
