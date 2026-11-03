@@ -21,6 +21,7 @@ npx skills add HikariBlackStar/skills-lab --skill <name>
 | [Rejection with feedback](skills/rejection-with-feedback/SKILL.md) | Candidate care |  |
 | [Client intake brief](skills/client-intake-brief/SKILL.md) | Client briefs |  |
 | [Cost of an unfilled vacancy](skills/cost-of-vacancy/SKILL.md) | Client briefs |  |
+| [Salary Benchmark](skills/salary-benchmark/SKILL.md) | Client briefs |  |
 | [Pipeline drop-off review](skills/pipeline-drop-off-review/SKILL.md) | Desk and productivity |  |
 | [Monthly desk review](skills/desk-review/SKILL.md) | For agency owners |  |
 | [Interview debrief](skills/interview-debrief/SKILL.md) | Interviewing |  |
