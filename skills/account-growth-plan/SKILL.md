@@ -5,7 +5,7 @@ license: MIT
 metadata:
   category: business-development
   author: will-grady
-  version: "1.0"
+  version: "1.1"
   checked: "2026-11-08"
 ---
 
@@ -46,7 +46,15 @@ Keep a clean line between what you were told and what you're reasoning. Tag ever
 6. **CLIMB THE VALUE LADDER (the heart of this).** What could the recruiter sell beyond what they do now, and how do they move this client UP from transactional to embedded partner? Walk the rungs: one-off perm or contract → multi-hire project → retained or exclusive search → talent mapping and market intel → embedded advisory (service levels, quarterly reviews, intel on retainer). For each realistic rung, name the play that moves them up it, and where they could take share from an incumbent supplier.
 7. **PRIORITISE RUTHLESSLY.** Score every opportunity on value, winnability (warmth, fit, track record) and effort. Sort into Quick wins, Big bets, Park. Be decisive — a plan that chases everything grows nothing.
 
+## OUTPUT LENGTH & SHAPE
+
+- Open with a **BOTTOM LINE**, 3–4 lines max: the single best move this week, the rough prize, and the one risk to act on. Someone should read only this and know what to do.
+- Then the full A–I, but keep the whole thing tight — aim under ~1,200 words unless the user asks you to go deeper. Cut hedging and repetition; every line earns its place.
+- Prefer short bullets to paragraphs. This is for a busy recruiter, not a report.
+
 ## OUTPUT (clearly labelled)
+
+**BOTTOM LINE** — 3–4 lines: the best move this week, the rough prize, the one risk to act on.
 
 **A. ACCOUNT AT A GLANCE** — current penetration, the size of the prize (share-of-wallet range), and the single biggest growth lever.
 
