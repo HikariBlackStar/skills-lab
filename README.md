@@ -15,6 +15,7 @@ npx skills add HikariBlackStar/skills-lab --skill <name>
 | Skill | Section | |
 |---|---|---|
 | [Fair AI at an agency](skills/fair-ai-at-an-agency/SKILL.md) | AI in recruitment |  |
+| [Account growth plan](skills/account-growth-plan/SKILL.md) | Business development |  |
 | [Client account plan](skills/client-account-plan/SKILL.md) | Business development |  |
 | [Blind CV](skills/blind-cv/SKILL.md) | CV screening |  |
 | [Evidence-based CV screen](skills/cv-evidence-screen/SKILL.md) | CV screening | Bias-tested |
