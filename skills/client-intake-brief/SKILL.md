@@ -1,6 +1,6 @@
 ---
 name: client-intake-brief
-description: Takes a job brief from a hiring client and turns it into a one-page brief the client can confirm, listing what is still missing before anyone starts searching. Use when a recruiter says 'take a brief', 'intake call', 'new role from a client', 'job spec', 'what should I ask the client' or pastes rough notes from a client call. BOUNDARY - this sets up the search; for the search itself use sourcing-strategy, for screening CVs use cv-evidence-screen.
+description: Takes a job brief from a hiring client and turns it into a one-page brief the client can confirm, listing what is still missing before anyone starts searching. Use when a recruiter says 'take a brief', 'intake call', 'new role from a client', 'job spec', 'what should I ask the client' or pastes rough notes from a client call. BOUNDARY - this sets up the search; for the search itself use subsea-engineer-sourcing-strategy, for screening CVs use cv-evidence-screen.
 license: MIT
 metadata:
   category: client-briefs

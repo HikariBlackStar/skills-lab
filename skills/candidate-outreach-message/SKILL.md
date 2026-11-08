@@ -1,6 +1,6 @@
 ---
 name: candidate-outreach-message
-description: Writes a short first message to a passive candidate on LinkedIn or by email, built on one specific, accurate detail from their background, saying what the role is and what it pays, and ending on one easy question. Follows Hikari's outbound rules - 50 to 125 words, one ask last, no urgency, no flattery. Use when the recruiter says 'write an InMail', 'approach this candidate', 'first message', 'headhunt message', 'reach out to this person' or pastes a profile with a role. BOUNDARY - it writes the first message and one follow-up only; to find people use sourcing-strategy; to write up a candidate for a client use shortlist-write-up.
+description: Writes a short first message to a passive candidate on LinkedIn or by email, built on one specific, accurate detail from their background, saying what the role is and what it pays, and ending on one easy question. Follows Hikari's outbound rules - 50 to 125 words, one ask last, no urgency, no flattery. Use when the recruiter says 'write an InMail', 'approach this candidate', 'first message', 'headhunt message', 'reach out to this person' or pastes a profile with a role. BOUNDARY - it writes the first message and one follow-up only; to find people use subsea-engineer-sourcing-strategy; to write up a candidate for a client use shortlist-write-up.
 license: MIT
 metadata:
   category: sourcing
