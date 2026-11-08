@@ -5,7 +5,7 @@ license: MIT
 metadata:
   category: business-development
   author: will-grady
-  version: "1.1"
+  version: "1.2"
   checked: "2026-11-08"
 ---
 
@@ -49,8 +49,8 @@ Keep a clean line between what you were told and what you're reasoning. Tag ever
 ## OUTPUT LENGTH & SHAPE
 
 - Open with a **BOTTOM LINE**, 3–4 lines max: the single best move this week, the rough prize, and the one risk to act on. Someone should read only this and know what to do.
-- Then the full A–I, but keep the whole thing tight — aim under ~1,200 words unless the user asks you to go deeper. Cut hedging and repetition; every line earns its place.
-- Prefer short bullets to paragraphs. This is for a busy recruiter, not a report.
+- Then the full A–I, but keep the whole thing tight — under ~1,200 words unless the user asks you to go deeper. Cut hedging and repetition; every line earns its place.
+- Prefer short bullets to paragraphs. It's for a busy recruiter, not a report.
 
 ## OUTPUT (clearly labelled)
 
