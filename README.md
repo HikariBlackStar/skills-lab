@@ -40,6 +40,7 @@ npx skills add HikariBlackStar/skills-lab --skill <name>
 | [Competitor Battlecards](skills/competitor-battlecards/SKILL.md) | Sourcing |  |
 | [Database rediscovery](skills/database-rediscovery/SKILL.md) | Sourcing |  |
 | [Market intelligence](skills/market-intelligence/SKILL.md) | Sourcing |  |
+| [Oil & Gas Sourcing Strategy](skills/oil-gas-sourcing-strategy/SKILL.md) | Sourcing |  |
 | [Process Chemist Sourcing Strategy](skills/process-chemist-sourcing-strategy/SKILL.md) | Sourcing |  |
 | [Subsea Engineer Sourcing Strategy](skills/subsea-engineer-sourcing-strategy/SKILL.md) | Sourcing |  |
 
