@@ -1,11 +1,11 @@
 ---
 name: process-chemist-sourcing-strategy
-description: Finds process chemists for the chemicals sector with a complete, multi-platform sourcing strategy, not a single Boolean string. Set up for a Process Chemist in speciality chemicals manufacturing (scale-up from lab to plant, plant trials, troubleshooting, Staffordshire) as it stands; change any line of the role block to retarget the location, sector, seniority or must-haves. Interrogates the brief, works out where the right people actually are, and builds layered, ready-to-run searches for LinkedIn, Google X-ray and the specialist sources chemists actually leave a trail in, then refines from the results. Use when the recruiter says 'source a process chemist', 'build me a search', 'x-ray search', 'find candidates for', 'where are these people hiding' or 'my search returns no one'. BOUNDARY - this finds people; it doesn't message or assess them. To screen the CVs you find, use cv-evidence-screen.
+description: Finds process chemists for the chemicals sector with a complete, multi-platform sourcing strategy, not a single Boolean string. Set up for a Process Chemist in speciality chemicals manufacturing (scale-up from lab to plant, plant trials, troubleshooting, UK) as it stands; change any line of the role block to retarget the location, sector, seniority or must-haves. Interrogates the brief, works out where the right people actually are, and builds layered, ready-to-run searches for LinkedIn, Google X-ray and the specialist sources chemists actually leave a trail in, then refines from the results. Use when the recruiter says 'source a process chemist', 'build me a search', 'x-ray search', 'find candidates for', 'where are these people hiding' or 'my search returns no one'. BOUNDARY - this finds people; it doesn't message or assess them. To screen the CVs you find, use cv-evidence-screen.
 license: MIT
 metadata:
   category: sourcing
   author: will-grady
-  version: "1.0"
+  version: "1.1"
   checked: "2026-11-09"
 ---
 
@@ -24,7 +24,7 @@ Unless the recruiter gives you a different brief, source for this one and build 
 
 - **Role:** Process Chemist, permanent.
 - **Sector:** speciality chemicals manufacturing.
-- **Location:** Staffordshire, on site at a manufacturing facility.
+- **Location:** UK, on site at a manufacturing facility. "UK" is enough to build the full plan; a town or county narrows it.
 - **Level:** experienced, ready to be the site's "go-to" process subject matter expert; a step up, not a first job.
 - **Must-haves:** a chemistry degree (organic preferred); chemical industry, process development or industrial R&D experience; scaling new products from laboratory to commercial manufacture; designing and running lab studies and plant trials; troubleshooting and root cause investigation.
 - **Nice-to-haves:** continuous improvement on safety, quality, yield, throughput and cost; owning production KPIs such as OEE and kg/kg (raw material used per kg of product).
@@ -62,7 +62,7 @@ Express the same strategy in each platform's grammar. Give 3 or 4 ready-to-paste
 - **GitHub and design sites:** say plainly that they don't fit this role and skip them.
 
 ### Stage 4: Plan the geography
-On-site manufacturing makes location the biggest lever. Map it in rings: those who can commute today, those within a realistic daily drive, then the UK chemical clusters where experienced people are concentrated (the North West around Runcorn, Widnes and Ellesmere Port, Teesside, the Humber, Grangemouth) for relocation. Say how far you would widen before relaxing any must-have, and what you would relax first.
+On-site manufacturing makes location the biggest lever. If the location is the whole UK, map the pool by the chemical clusters where experienced people are concentrated (the North West around Runcorn, Widnes and Ellesmere Port, Teesside, the Humber, Grangemouth, the Midlands) build the full plan nationally, and put the site's town first under "To sharpen this", because the commute decides who will move. If a town or county is given, map it in rings: those who can commute today, those within a realistic daily drive, then the clusters for relocation. Say how far you would widen before relaxing any must-have, and what you would relax first.
 
 ### Stage 5: Refine from the results (the loop most people skip)
 - **Clone your best match.** Open two or three near-perfect profiles, note the exact language, prior employers and process terms *they* use, and fold it back in.
